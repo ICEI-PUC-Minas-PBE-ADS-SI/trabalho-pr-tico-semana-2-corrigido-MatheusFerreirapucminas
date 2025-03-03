@@ -1,0 +1,12 @@
+body {
+    background-color: wheat;
+    color: black;
+    font-family: Calibri;
+    font-size: 120%;
+    text-align: center;
+}
+
+img {
+    height: 50%;
+    width: 25%;
+}
